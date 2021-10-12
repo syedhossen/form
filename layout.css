@@ -1,0 +1,99 @@
+/**{
+	border: 1px solid red;
+}*/
+.container{
+	
+}
+.header{
+	background-color: blue;
+	min-height: 80px;
+
+
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.about{
+	background-color:green;
+	min-height: 100px;
+	width: 50%;
+	float: left;
+}
+.aside{
+	background-color: yellow;
+	min-height: 100px;
+	width: 50%;
+	float: right;
+}
+
+.service_wrapper{
+	overflow: hidden;
+	
+
+}
+.service_web{
+	background-color: skyblue;
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+	/*display: inline-block;*/
+
+}
+.service_graph{
+	background-color: orange;
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+		/*display: inline-block;*/
+
+}
+.service_appl {
+	background-color: pink;
+	min-height: 100px;
+	width: 33.33%;
+    float: left;
+	/*display: inline-block;*/
+
+}
+.features_wrapper{
+	overflow: hidden;
+
+}
+.features_html{
+	background-color: brown;
+	min-height: 100px;
+	width: 25%;
+	float: left;
+
+}
+.features_css{
+	background-color: aqua;
+	min-height: 100px;
+	width: 25%;
+	float: right;
+
+}
+.features_js{
+	background-color: darkcyan;
+	min-height: 100px;
+	width: 25%;
+	float: left;
+
+}
+.features_php{
+	background-color: violet;
+	min-height: 100px;
+	width: 25%;
+	float: left;
+
+}
+.footer {
+	background-color: gray;
+	min-height: 80px;
+	width: 100%;
+
+	
+	
+	
+}
